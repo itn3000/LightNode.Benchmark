@@ -1,0 +1,18 @@
+﻿{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "LightNode.Server": "1.6.3",
+    "Microsoft.Owin.Host.HttpListener": "3.0.1",
+    "Microsoft.Owin.Hosting": "3.0.1"
+  },
+
+  "frameworks": {
+    "net452": {
+
+    }
+  }
+}
